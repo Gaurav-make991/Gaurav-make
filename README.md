@@ -1,2 +1,2 @@
 # Gaurav-make
-This is my new git hub
+This is my first Git repository
